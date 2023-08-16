@@ -1,4 +1,4 @@
-# Padrões de commit
+## Padrões de commit
 - **feat**: Um novo recurso para a aplicação, e não precisa ser algo grande, mas apenas algo que não existia antes e que a pessoa final irá acessar.
 - **fix**: Correções de bugs
 - **docs**: Alterações em arquivos relacionados à documentações
@@ -8,14 +8,14 @@
 - **test**: Criação ou modificação de testes
 - **chore**: Alterações em arquivos de configuração, build, distribuição, CI, ou qualquer outra coisa que não envolva diretamente o código da aplicação para o usuário final
 
-# Nome da Branch
+## Nome da Branch
 ### Padrão:
 ```<padrão-de-commit>/<resumo-da-task> ```
 
 ### Exemplo:
 ```git checkout -b feat/create-post-api```
 
-# Padrão de descrição para Pull Request
+## Padrão de descrição para Pull Request
 
 ### Card do Trello
 https://trello.com/b/8kZmNsH2/gestão-morus
