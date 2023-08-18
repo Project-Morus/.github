@@ -28,3 +28,15 @@ https://trello.com/b/8kZmNsH2/gestão-morus
   ```
   export interface ICardProps { id: string, title: string, description?: string }
   ```
+
+## Contribuintes
+<div>
+  <a href="https://github.com/larissadantier"><img src="https://avatars.githubusercontent.com/larissadantier?size=100" /></a>
+  <a href="https://github.com/eduardoangelosimon"><img src="https://avatars.githubusercontent.com/eduardoangelosimon?size=100" /></a>
+  <a href="https://github.com/palharesgab"><img src="https://avatars.githubusercontent.com/palharesgab?size=100" /></a>
+  <a href="https://github.com/Elisa-git"><img src="https://avatars.githubusercontent.com/Elisa-git?size=100" /></a>
+  <a href="https://github.com/AlinePBrandao"><img src="https://avatars.githubusercontent.com/AlinePBrandao?size=100" /></a>
+</div>
+
+  [Angelo Salvador](https://github.com/AngeloSalvador)
+  [Vitor Perini](https://github.com/AngeloSalvador)
