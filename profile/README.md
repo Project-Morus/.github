@@ -40,3 +40,4 @@ https://trello.com/b/8kZmNsH2/gestão-morus
 
   [Angelo Salvador](https://github.com/AngeloSalvador)
   [Vitor Perini](https://github.com/AngeloSalvador)
+  [Nicolas Montovaneli](https://github.com/nick000895)
